@@ -23,3 +23,4 @@ tzdata==2025.2
 xarray==2025.3.1
 openpyxl==3.1.2
 geopandas==0.13.2
+EMD-signal==1.9.0
